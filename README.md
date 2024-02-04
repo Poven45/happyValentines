@@ -1,2 +1,3 @@
-# happyValentines
-A site to ask out your crush
+# Happy Valentines!
+## A site to ask out your crush
+
